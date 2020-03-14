@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^2.12.2",
+    "commander": "^5.0.0",
     "progress": "^2.0.0"
   }
 }
